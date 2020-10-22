@@ -4,9 +4,9 @@
 
 Pre-requisites: **(1)** System with an Arch-based Linux distribution, **(2)** network connection.
 
-	1. Clone with `git clone https://github.com/majamin/LARBS.git` and `cd LARBS`
-	2. Look over `larbs.sh` and make it executable: `chmod +x larbs.sh`
-	3. Run `larbs.sh` as root
+1. Clone with `git clone https://github.com/majamin/LARBS.git` and `cd LARBS`
+2. Look over `larbs.sh` and make it executable: `chmod +x larbs.sh`
+3. Run `larbs.sh` as root
 
 ## What is this?
 
