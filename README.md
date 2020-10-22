@@ -23,4 +23,4 @@ Please see Luke's LARBS for other customizations.
 
 ## Screenshot
 
-![screenshot][https://raw.githubusercontent.com/majamin/LARBS/master/screenshot.png]
+![screenshot](https://raw.githubusercontent.com/majamin/LARBS/master/screenshot.png)
